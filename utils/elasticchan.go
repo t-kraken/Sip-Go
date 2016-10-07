@@ -1,6 +1,6 @@
 package utils
 
-import "git.idsmicronet.com/ais-api/gossip/log"
+import "github.com/tomlaflamme/Sip-Go/log"
 
 // The buffer size of the primitive input and output chans.
 const c_ELASTIC_CHANSIZE = 3

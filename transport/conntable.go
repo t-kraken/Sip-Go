@@ -3,7 +3,7 @@ package transport
 import (
 	"time"
 
-	"git.idsmicronet.com/ais-api/gossip/log"
+	"github.com/tomlaflamme/Sip-Go/log"
 )
 
 // Fields of connTable should only be modified by the dedicated goroutine called by Init().

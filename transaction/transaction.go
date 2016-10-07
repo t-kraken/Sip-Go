@@ -5,9 +5,9 @@ import (
 	"time"
 
 	"github.com/discoviking/fsm"
-	"git.idsmicronet.com/ais-api/gossip/base"
-	"git.idsmicronet.com/ais-api/gossip/log"
-	"git.idsmicronet.com/ais-api/gossip/transport"
+	"github.com/tomlaflamme/Sip-Go/base"
+	"github.com/tomlaflamme/Sip-Go/log"
+	"github.com/tomlaflamme/Sip-Go/transport"
 )
 
 // Generic Client Transaction

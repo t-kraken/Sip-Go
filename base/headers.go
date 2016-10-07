@@ -1,7 +1,7 @@
 package base
 
 import (
-	"git.idsmicronet.com/ais-api/gossip/utils"
+	"github.com/tomlaflamme/Sip-Go/utils"
 )
 
 import "bytes"

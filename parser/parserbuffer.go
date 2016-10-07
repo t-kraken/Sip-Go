@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"git.idsmicronet.com/ais-api/gossip/log"
+	"github.com/tomlaflamme/Sip-Go/log"
 )
 
 // The error returned by the GetNextChunk and GetNextLine methods of Parserbuffer

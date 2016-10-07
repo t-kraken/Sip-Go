@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"git.idsmicronet.com/ais-api/gossip/base"
+	"github.com/tomlaflamme/Sip-Go/base"
 )
 
 type endpoint struct {

@@ -1,8 +1,8 @@
 package transport
 
 import (
-	"git.idsmicronet.com/ais-api/gossip/base"
-	"git.idsmicronet.com/ais-api/gossip/log"
+	"github.com/tomlaflamme/Sip-Go/base"
+	"github.com/tomlaflamme/Sip-Go/log"
 )
 
 import (

@@ -1,9 +1,9 @@
 package parser
 
 import (
-	"git.idsmicronet.com/ais-api/gossip/base"
-	"git.idsmicronet.com/ais-api/gossip/log"
-	"git.idsmicronet.com/ais-api/gossip/utils"
+	"github.com/tomlaflamme/Sip-Go/base"
+	"github.com/tomlaflamme/Sip-Go/log"
+	"github.com/tomlaflamme/Sip-Go/utils"
 )
 
 import (
